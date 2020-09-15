@@ -1,0 +1,115 @@
+.top-container{
+  background-color: #ddf3f5;
+  padding-top: 80px;
+  line-height: 2;
+}
+body{
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif
+
+}
+a{
+  margin:10px 20px;
+}
+h1{
+  color: #66BFBF;
+  margin:50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+.tag-line{
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+
+}
+h2{
+
+  font-family: 'Montserrat', sans-serif;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+.list{
+  text-align: left;
+}
+.middle-container{
+  margin: 100px auto;
+
+}
+.bottom-container{
+  background-color: #66BFBF;
+  margin-top: 30px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+
+}
+.top-cloud{
+  position: relative;
+  left: 400px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 100px;
+}
+a
+{
+  color: #11999E;
+  text-decoration: none;
+
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.webd-img{
+  float: left;
+  margin-right: 30px;
+}
+.cooking-img{
+  float: right;
+  margin-left: 30px;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 6px;
+  border-color: grey;
+  height: 0;
+  width: 8%;
+  margin: 100px auto;
+}
+.copy-right{
+  color: #EAF6F6;
+  margin-top: 25px;
+  font-size: 0.75rem;
+}
+.btn {
+  margin: 100px auto;
+	box-shadow: 0 0 0 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:6px;
+	border:1px solid #07191f;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:22px;
+	padding:14px 41px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #283966;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
